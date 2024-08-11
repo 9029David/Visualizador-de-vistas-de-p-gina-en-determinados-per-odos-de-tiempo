@@ -3,7 +3,6 @@
 Este proyecto en Python permite visualizar el promedio diario de vistas a una página web agrupadas por mes y año. Utiliza matplotlib para generar gráficos de barras que muestran las vistas de página en diferentes períodos de tiempo, facilitando el análisis de tendencias a lo largo del año.
 
 **Características:**
-
     - Genera un gráfico de barras que muestra el promedio diario de vistas para cada mes, agrupadas por año.
     
     - Incluye etiquetas y leyenda para facilitar la interpretación de los datos.
@@ -12,14 +11,12 @@ Este proyecto en Python permite visualizar el promedio diario de vistas a una p�
     
 
 **Cómo usar:**
-
     - Asegúrate de tener instaladas las librerías necesarias (matplotlib).
     
     - Ejecuta el script visualizador_vistas.py para generar el gráfico.
     
 
 **Requisitos:**
-
     - Python 3.12.4
     
     - matplotlib
@@ -30,8 +27,8 @@ Este proyecto en Python permite visualizar el promedio diario de vistas a una p�
     
 
 **Instalación:**
-
 Para instalar matplotlib, seaborn y pandas, puedes usar pip:
+
 
     pip install matplotlib
     
@@ -41,11 +38,8 @@ Para instalar matplotlib, seaborn y pandas, puedes usar pip:
 
 
 🤝 Contribuciones
-
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras.
 
 📧 Contacto
-
 David Alvarez
-
 LinkedIn: https://www.linkedin.com/in/david-alvarez-547671256/
