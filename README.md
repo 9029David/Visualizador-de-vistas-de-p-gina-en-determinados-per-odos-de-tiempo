@@ -32,13 +32,13 @@ Este proyecto en Python permite visualizar el promedio diario de vistas a una p�
 **Instalación:**
 
 Para instalar matplotlib, seaborn y pandas, puedes usar pip:
-´´´python
+
     pip install matplotlib
     
     pip install seaborn
     
     pip install pandas
-´´´´
+
 
 🤝 Contribuciones
 
